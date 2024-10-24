@@ -1,7 +1,8 @@
 # Market Basket Optimization using Apriori Algorithm
-This project focuses on identifying associations and relationships between items commonly purchased together in retail transactions. Market Basket Analysis, a popular technique in data mining, helps businesses optimize sales strategies by understanding customer purchasing behavior.
+This project aims to uncover links and connections between items frequently bought together in retail settings. Utilizing Market Basket Analysis, a well-known method in data mining, helps businesses optimize sales strategies by understanding customer purchasing behavior.
 
 ## Table of Contents
+
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Data Preprocessing](#data-preprocessing)
@@ -52,8 +53,13 @@ Association rules are generated using the **confidence** and **lift** metrics to
 1. **Top 10 Frequent Itemsets**:
    - A bar chart is created to visualize the top 10 frequent itemsets with the highest support.
 
+![image](https://github.com/user-attachments/assets/9e7e93af-c1ae-420c-b748-ab2f6717e67b)
+
 2. **Cross-Selling Matrix**:
    - A cross-selling matrix shows how often items are bought together, providing useful insights into cross-sell opportunities. This matrix is visualized as a heatmap to illustrate the relationships between different items.
+
+![image](https://github.com/user-attachments/assets/be73b51b-0c12-47ab-b119-c296d73d5068)
+
 
 ## Evaluation Summary
 
