@@ -63,7 +63,7 @@ Association rules are generated using the **confidence** and **lift** metrics to
 
 ## Evaluation Summary
 
-Apriori algorithm effectively identifies the most frequent itemsets and the association rules extracted provide practical insight into how items are purchased together
+Apriori algorithm effectively identifies the most frequent itemsets and the association rules extracted provide practical insight into how items are purchased together.
 
 ## Conclusion
 
