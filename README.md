@@ -1,4 +1,8 @@
 # Market Basket Optimization using Apriori Algorithm
+
+![Mkt_basket_ Apr 30, 2025, 04_31_25 PM](https://github.com/user-attachments/assets/bfe1b612-4e17-4762-a475-f3e4804b585f)
+
+
 This project aims to uncover links and connections between items frequently bought together in retail settings. Utilizing Market Basket Analysis, a well-known method in data mining, helps businesses optimize sales strategies by understanding customer purchasing behavior.
 
 ## Table of Contents
